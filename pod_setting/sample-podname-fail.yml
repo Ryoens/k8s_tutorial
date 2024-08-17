@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: Pod
+metadata: 
+  name: sample_podname_fail # pod名には _ (underbar) は使えないので実行できません (RFC1123のホスト名の制約に従っている)
+spec: 
+  containers:
+  - name: nginx-container
+    image: nginx:latest

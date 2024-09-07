@@ -6,7 +6,7 @@
 - [x] Deployment
 - [x] DaemonSet
 - [x] StatefulSet
-- [ ] Job
+- [x] Job
 - [ ] CronJob
 
 ### 第6章: Service APIs

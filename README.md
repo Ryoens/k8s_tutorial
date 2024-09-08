@@ -7,7 +7,7 @@
 - [x] DaemonSet
 - [x] StatefulSet
 - [x] Job
-- [ ] CronJob
+- [x] CronJob
 
 ### 第6章: Service APIs
 - [ ] Kubernetes Cluster Network & Serivice
